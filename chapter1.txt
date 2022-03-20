@@ -1,0 +1,5 @@
+git init - creating git repo and .git file
+
+git add . - add all files
+
+git commit -am "<Commit Message >" -
